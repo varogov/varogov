@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @varogov
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning JavaScript, GO, CSS, HTML
+- 👀 I’m interested in CyberSecurity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vladimirrogov12@yandex.ru
 
