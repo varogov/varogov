@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @varogov
 - 👀 I’m interested in CyberSecurity
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me vladimirrogov12@yandex.ru
+- 📫 How to reach me vladimirrogov12@yandex.ru or tg @tworogoff
 
 <!---
 varogov/varogov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
